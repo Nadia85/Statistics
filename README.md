@@ -1,15 +1,20 @@
 # Statistics
 ## Statistics methods for data science
 
+### 1_Confident_Intervals
 
-1. Confidence intervals for the mean
+- Confidence intervals for the mean
+- Confidence intervals for proportion
 
-2. Confidence intervals for proportion
+
+### 2_Hypothesis_Test
+
+Parametric and non-parametric criterias
 
 
 ______________________________________________________________________________________________________________________________
 
 - python notebook
 - pandas
-- numpy
+- scipy
 - statsmodels
