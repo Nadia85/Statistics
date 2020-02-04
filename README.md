@@ -13,9 +13,12 @@
 ### 3_Models_Comparison
  - t-statistics for two samples (predictive models) comparison
  
- ### 4_Correlation
- - Correlation analysis for real, binominal, categorical data.
-
+### 4_Correlation
+ - Correlation analysis for real, binominal, categorical data
+ 
+ 
+### 5_Multiple_Hypothesis_Test
+- Four models comparison using correction for multiple validation: Holm method with Benjamini–Hochberg method
 
 ______________________________________________________________________________________________________________________________
 
